@@ -12,6 +12,10 @@ What it does:
 - Simple bot that is able to store & calculate your calorie intake you have consumed today (hopefully I would be able to track it such that you can keep in multiple days) as well as your BMI! 
 - Utilises simple & understandable concepts 
 
+3. Weather Bot (Python)
+- A simple weather bot that uses OpenWeatherAPI software
+- Provides a simple and interactive UI on telegram, able to search for whatever cities in the world 
+- Able to save up to 5 different cities 
 
 
 
