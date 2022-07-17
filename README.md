@@ -17,5 +17,8 @@ What it does:
 - Provides a simple and interactive UI on telegram, able to search for whatever cities in the world 
 - Able to save up to 5 different cities 
 
-
+4. Dashboards (Python)
+- A Dashboard that I have created based on the sports participation in Singapore. It is just me showcasing the ability of utilising dash as a whole. (given that it mainly runs in Python). 
+- Suggestable that I should learn css html & js to further enhance its ability. 
+- Namely used for web analytics and web dev
 
