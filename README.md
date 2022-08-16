@@ -22,3 +22,7 @@ What it does:
 - Suggestable that I should learn css html & js to further enhance its ability. 
 - Namely used for web analytics and web dev
 
+5. Stockbot (Python)
+- Made a stockbot that can track current news affairs (by utilising finnhub API), it can also find the choice of stock (using Ticker symbols)
+- Additionally, I have modified it such that it can be deployable to Heroku servers as well... if you wish to find out how please drop me a message
+- Stockbot is also able to give the Companies Summary Data, About, P/E & Dividend
