@@ -1,0 +1,5 @@
+python-telegram-bot==13.13
+gnews==0.2.7
+newspaper3k==0.2.8
+nltk==3.6.5
+validators==0.20.0
