@@ -26,3 +26,9 @@ What it does:
 - Made a stockbot that can track current news affairs (by utilising finnhub API), it can also find the choice of stock (using Ticker symbols)
 - Additionally, I have modified it such that it can be deployable to Heroku servers as well... if you wish to find out how please drop me a message
 - Stockbot is also able to give the Companies Summary Data, About, P/E & Dividend
+(Will be making minor changes to this bot)
+
+6. Newsbot (Python)
+- Made a completely deployable newsbot in python. It can gather news from various categories as well as summarise ANY news link you send it.
+- Simple to use
+- File can be easily deployed to Heroku
