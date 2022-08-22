@@ -2,12 +2,13 @@ This Folder contains all the requirements needed to the code fully.
 It contains:
 newsbot.py file 
 requirements.txt (requirements needed to be uploaded to heroku)
-nlk.txt (contains all the nlk elements)  
+nlk.txt (contains all the nlk elements) 
+Procfile (unique to Heroku)
 
 To properly load these files you need:
 - Heroku CLI
 - Heroku account
-- Git 
+- Git
 
 
 Steps:
