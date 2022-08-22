@@ -19,4 +19,8 @@ Steps:
 5. git commit -am "name of the change"
 6. git push heroku master 
 
+IMPORTANT:
+You need to create your own telegram bot and manually insert the api key given by Botfather into the newsbot.py
+You also need to copy  the link given by heroku cli and insert it inside the newsbot.py, else it will not work
+
 At the end, you should be able to load the heroku server up.
