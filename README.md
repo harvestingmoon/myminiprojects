@@ -32,3 +32,9 @@ What it does:
 - Made a completely deployable newsbot in python. It can gather news from various categories as well as summarise ANY news link you send it.
 - Simple to use
 - File can be easily deployed to Heroku
+
+7. Restaurant Bot (Python)
+- First bot project I have done to completely use Machine learning (Unsupervised)
+- Recommends Restaurants based on user location (Or at least when they key it in)
+- File can be easily deployed to Heroku! 
+- Contains Ipynb which showcases analysis of getting the necessary data
