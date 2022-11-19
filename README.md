@@ -1,6 +1,6 @@
 # myminiprojects
 
-A series of mini projects to brush my programming skills
+A series of mini projects to brush my programming skills (non exhuastive)
 
 1. TotoFourD (Java)
 - Generates unique number of 4d or TOTO numbers, additionally it keeps track of the count!
@@ -38,3 +38,8 @@ What it does:
 - Recommends Restaurants based on user location (Or at least when they key it in)
 - File can be easily deployed to Heroku! 
 - Contains Ipynb which showcases analysis of getting the necessary data
+
+8. Choropleth Mapping Of Singapore (Python / Jupyter Notebook)
+- Choropleth Mapping Of Singapore Rental Flats using folium + Altair
+- First time touching geojson!
+medium publish: https://medium.com/@lwyeong/choropleth-mapping-singapore-using-python-24cb26173fdd
