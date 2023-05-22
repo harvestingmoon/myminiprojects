@@ -43,3 +43,9 @@ What it does:
 - Choropleth Mapping Of Singapore Rental Flats using folium + Altair
 - First time touching geojson!
 medium publish: https://medium.com/@lwyeong/choropleth-mapping-singapore-using-python-24cb26173fdd
+
+
+9. YOLO x Surveillance:
+- Submitted custom trained YOLO model, made using AI SG PeekingDuck x Dash module 
+- First time working on Neural Networks
+Link to code:https://github.com/harvestingmoon/parkingvision
